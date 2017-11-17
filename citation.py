@@ -11,7 +11,7 @@ matches = re.findall(find, source)
 
 for matchIndex in range(matches.__len__()):
 	match = matches[matchIndex]
-	i = str(matchIndex)
+	i = str(matchIndex+1)
 	lastName = match[1]
 	firstName = match[0]
 	print("\t| last"+i+" = "+lastName+" | first"+i+" = "+firstName)
