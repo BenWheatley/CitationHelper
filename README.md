@@ -10,4 +10,4 @@ becomes
 	| last0 = Beta | first0 = Alpha
 	| last1 = Delta | first1 = Gamma
 
-The initial version is based on the 75 authors of [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/pdf/1704.04760.pdf)
+The initial version is based on the 75 authors of [In-Datacenter Performance Analysis of a Tensor Processing Unit™](https://arxiv.org/pdf/1704.04760.pdf)
